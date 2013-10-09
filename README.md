@@ -1,5 +1,5 @@
 jQuery AJAX Form Helper
-==================
+=======================
 
 jQuery Form Helper - Forked from [JREAM BitBucket](http://bitbucket.org/JREAM/js-util)
 
